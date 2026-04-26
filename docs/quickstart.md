@@ -25,10 +25,21 @@ Authenticated tenant-specific details belong in the hosted tenant documentation 
 Recommended order:
 
 1. Read the [overview](overview.md).
-2. Read [context priming](concepts/context-priming.md).
-3. Read [using MoteCloud with MCP](guides/using-mcp.md).
-4. Review [privacy and documentation boundaries](concepts/privacy-and-boundaries.md).
-5. Review [benchmark overview](benchmarks/overview.md) if you are evaluating behavior.
+2. Read [memory primitives](concepts/memory-primitives.md).
+3. Read [context priming](concepts/context-priming.md).
+4. Read [agent memory](concepts/agent-memory.md).
+5. Read [using MoteCloud with MCP](guides/using-mcp.md) or [using the API](guides/using-the-api.md).
+6. Review [privacy and documentation boundaries](concepts/privacy-and-boundaries.md).
+7. Review [benchmark overview](benchmarks/overview.md) if you are evaluating behavior.
+
+## Public Reference
+
+Use the curated reference pages for public integration concepts:
+
+- [API reference overview](reference/api.md)
+- [MCP tools reference](reference/mcp-tools.md)
+- [Environment reference](reference/environment.md)
+- [Error guide](reference/errors.md)
 
 ## 4. Keep Boundaries Clear
 

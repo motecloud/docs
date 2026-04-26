@@ -23,6 +23,8 @@ Context priming prepares a compact, ranked set of relevant memories for a task. 
 
 Working sessions capture short-lived observations as a task unfolds. Durable findings can be promoted when they are validated and likely to help future work.
 
+Read more in [memory primitives](concepts/memory-primitives.md), [agent memory](concepts/agent-memory.md), and [retrieval and graphs](concepts/retrieval-and-graphs.md).
+
 ## Documentation Surfaces
 
 MoteCloud separates documentation into three broad scopes:
@@ -32,3 +34,11 @@ MoteCloud separates documentation into three broad scopes:
 - Admin docs for operators, monitoring, runbooks, and restricted operational material.
 
 See [Privacy and documentation boundaries](concepts/privacy-and-boundaries.md) for the full public explanation.
+
+## Public Guides
+
+- [Using the API](guides/using-the-api.md)
+- [Using MoteCloud with MCP](guides/using-mcp.md)
+- [Using agents](guides/using-agents.md)
+- [Tenant onboarding](guides/tenant-onboarding.md)
+- [Publishing benchmarks](guides/publishing-benchmarks.md)

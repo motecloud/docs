@@ -10,9 +10,18 @@ Important public pages:
 
 - Overview: docs/overview.md
 - Quickstart: docs/quickstart.md
+- Memory primitives: docs/concepts/memory-primitives.md
 - Context priming: docs/concepts/context-priming.md
+- Agent memory: docs/concepts/agent-memory.md
+- Retrieval and graphs: docs/concepts/retrieval-and-graphs.md
 - Privacy and documentation boundaries: docs/concepts/privacy-and-boundaries.md
 - MCP usage: docs/guides/using-mcp.md
+- API usage: docs/guides/using-the-api.md
+- Agent usage: docs/guides/using-agents.md
+- API reference overview: docs/reference/api.md
+- MCP tools reference: docs/reference/mcp-tools.md
 - Benchmark overview: docs/benchmarks/overview.md
+- Benchmark methodology: docs/benchmarks/methodology.md
+- Public status: docs/operations/public-status.md
 
 Public GitHub repositories should use the https://github.com/motecloud/ organization.
