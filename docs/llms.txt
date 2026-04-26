@@ -1,0 +1,18 @@
+# MoteCloud Public Docs For AI Readers
+
+This repository contains public MoteCloud documentation only.
+
+Use these pages for product concepts, public integration guidance, public benchmark context, changelog information, and safe high-level descriptions of MoteCloud memory workflows.
+
+Do not infer that this repository contains tenant-specific setup, admin runbooks, private security evidence, private source code, internal deployment details, or unreleased benchmark artifacts.
+
+Important public pages:
+
+- Overview: docs/overview.md
+- Quickstart: docs/quickstart.md
+- Context priming: docs/concepts/context-priming.md
+- Privacy and documentation boundaries: docs/concepts/privacy-and-boundaries.md
+- MCP usage: docs/guides/using-mcp.md
+- Benchmark overview: docs/benchmarks/overview.md
+
+Public GitHub repositories should use the https://github.com/motecloud/ organization.
